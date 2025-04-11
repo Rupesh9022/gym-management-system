@@ -1,0 +1,17 @@
+.landing-page {
+    @apply min-h-screen flex flex-col;
+  }
+  
+  .landing-page header {
+    @apply bg-gradient-to-r from-blue-500 to-purple-600 text-white;
+  }
+  
+  .landing-page main {
+    @apply flex-grow;
+  }
+  
+  .landing-page footer {
+    @apply bg-gray-800 text-white py-8;
+  }
+  
+  

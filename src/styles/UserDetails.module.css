@@ -1,0 +1,13 @@
+.userDetails {
+    @apply bg-white p-6 rounded shadow;
+  }
+  
+  .title {
+    @apply text-xl font-semibold mb-4;
+  }
+  
+  .details {
+    @apply space-y-2;
+  }
+  
+  

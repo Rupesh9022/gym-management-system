@@ -1,0 +1,29 @@
+.searchRecords {
+    @apply bg-white p-6 rounded shadow;
+  }
+  
+  .title {
+    @apply text-xl font-semibold mb-4;
+  }
+  
+  .form {
+    @apply flex gap-2 mb-4;
+  }
+  
+  .input {
+    @apply flex-grow p-2 border rounded;
+  }
+  
+  .button {
+    @apply bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600;
+  }
+  
+  .results {
+    @apply space-y-2;
+  }
+  
+  .resultItem {
+    @apply p-2 bg-gray-100 rounded;
+  }
+  
+  

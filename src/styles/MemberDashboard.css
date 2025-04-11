@@ -1,0 +1,14 @@
+.member-dashboard {
+    @apply container mx-auto p-4;
+  }
+  
+  .member-dashboard table {
+    @apply w-full border-collapse;
+  }
+  
+  .member-dashboard th,
+  .member-dashboard td {
+    @apply border px-4 py-2;
+  }
+  
+  

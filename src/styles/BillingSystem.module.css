@@ -1,0 +1,21 @@
+.billingSystem {
+    @apply bg-white p-6 rounded shadow;
+  }
+  
+  .title {
+    @apply text-xl font-semibold mb-4;
+  }
+  
+  .form {
+    @apply space-y-4;
+  }
+  
+  .input {
+    @apply w-full p-2 border rounded;
+  }
+  
+  .button {
+    @apply w-full bg-green-500 text-white p-2 rounded hover:bg-green-600;
+  }
+  
+  

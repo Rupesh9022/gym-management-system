@@ -1,0 +1,17 @@
+.billReceipts {
+    @apply bg-white p-6 rounded shadow;
+  }
+  
+  .title {
+    @apply text-xl font-semibold mb-4;
+  }
+  
+  .list {
+    @apply space-y-2;
+  }
+  
+  .listItem {
+    @apply p-2 bg-gray-100 rounded flex justify-between;
+  }
+  
+  

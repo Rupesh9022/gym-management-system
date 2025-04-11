@@ -1,0 +1,21 @@
+.loginContainer {
+    @apply flex justify-center items-center h-screen bg-gray-100;
+  }
+  
+  .loginForm {
+    @apply bg-white p-8 rounded shadow-md w-96;
+  }
+  
+  .loginTitle {
+    @apply text-2xl font-bold mb-4 text-center;
+  }
+  
+  .loginInput {
+    @apply w-full p-2 mb-4 border rounded;
+  }
+  
+  .loginButton {
+    @apply w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600;
+  }
+  
+  

@@ -1,0 +1,14 @@
+.admin-dashboard {
+    @apply container mx-auto p-4;
+  }
+  
+  .admin-dashboard table {
+    @apply w-full border-collapse;
+  }
+  
+  .admin-dashboard th,
+  .admin-dashboard td {
+    @apply border px-4 py-2;
+  }
+  
+  

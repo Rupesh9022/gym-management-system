@@ -1,0 +1,9 @@
+.login-container {
+    @apply min-h-screen flex items-center justify-center bg-gray-100;
+  }
+  
+  .login-form {
+    @apply bg-white p-8 rounded shadow-md w-96;
+  }
+  
+  

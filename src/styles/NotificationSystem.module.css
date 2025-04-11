@@ -1,0 +1,21 @@
+.notificationSystem {
+    @apply bg-white p-6 rounded shadow;
+  }
+  
+  .title {
+    @apply text-xl font-semibold mb-4;
+  }
+  
+  .form {
+    @apply space-y-4;
+  }
+  
+  .textarea {
+    @apply w-full p-2 border rounded h-32 resize-none;
+  }
+  
+  .button {
+    @apply w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600;
+  }
+  
+  
